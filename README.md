@@ -2,7 +2,7 @@
 
 Desktop task management client featuring relational database persistence, event-driven user interactions, and an elastic dark-mode UI.
 
-![FIT Task Management Application Preview](Assets/Images/todo-app-preview.gif)
+![FIT Task Management Application Preview](todo-app-preview.gif)
 
 ## Introduction
 The FIT Task Management Application provides an interactive workflow for managing pending tasks and tracking completed items. Designed around the **Event-Driven Programming (EDP)** paradigm, the application processes real-time user inputs, mouse hovers, and keyboard presses to update the interface dynamically.
