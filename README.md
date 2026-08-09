@@ -66,6 +66,8 @@ CREATE TABLE IF NOT EXISTS `entry` (
 * **Elastic Dashboard Layout:** Uses **Tkinter** geometry settings (`expand=True`, `fill=BOTH`) with a minimum window boundary (`860x460`) so the layout scales cleanly when resized.
 * **Defensive Error Handling:** Integrated `tkinter.messagebox` modal alerts notify users of empty text submissions or missing listbox selections without crashing the app.
 
+![FIT Task Management Application Preview](todo-app-preview2.gif)
+
 ## Prerequisites
 * Python 3.x installed on your system.
 * MySQL Server 8.0+ running locally.
